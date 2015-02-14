@@ -1,0 +1,29 @@
+commit 6419bfcdf2c886c298bbcdb3a1b9f2e3f055851a
+Author: Cristian Sanchez <artcsch@outlook.com>
+Date:   Thu Feb 12 23:09:56 2015 -0500
+
+    ingrese los 4 y 5to commit de proyecto
+
+commit 6d19908caad8641f83addd675b60f89a55399361
+Author: Cristian Sanchez <artcsch@outlook.com>
+Date:   Thu Feb 12 23:06:37 2015 -0500
+
+    Agrege redes sociales
+
+commit 8eb019786ff6a7d3213420ad22eec1df29da7f7e
+Author: Cristian Sanchez <artcsch@outlook.com>
+Date:   Thu Feb 12 22:52:46 2015 -0500
+
+    Perfil Web escrito
+
+commit 9d874060327c2be3f719adbdab0cf71e10a07646
+Author: Cristian Sanchez <artcsch@outlook.com>
+Date:   Thu Feb 12 22:50:35 2015 -0500
+
+    Subi foto y perfil
+
+commit 585f785d9412a4922445f0c806b2d7e89a2d85ce
+Author: Cristian Sanchez <artcsch@outlook.com>
+Date:   Thu Feb 12 21:09:43 2015 -0500
+
+    Estos son los archivos base de mi portafolio
